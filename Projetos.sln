@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "READINGPDF-API", "READINGPDF-API", "{4EB30C6C-78C6-ECC3-0E70-502A694A6574}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "READIGNPDF.API", "READINGPDF-API\READIGNPDF.API\READIGNPDF.API.csproj", "{82084653-D009-1FA3-A403-652FCCCFB42C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82084653-D009-1FA3-A403-652FCCCFB42C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82084653-D009-1FA3-A403-652FCCCFB42C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82084653-D009-1FA3-A403-652FCCCFB42C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82084653-D009-1FA3-A403-652FCCCFB42C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{82084653-D009-1FA3-A403-652FCCCFB42C} = {4EB30C6C-78C6-ECC3-0E70-502A694A6574}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AAA167F-1D9F-4019-980E-2B3739715E36}
+	EndGlobalSection
+EndGlobal
